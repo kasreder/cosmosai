@@ -1,0 +1,44 @@
+[
+  {
+    "id": "post-1",
+    "title": "커뮤니티 이용 안내",
+    "authorNickname": "별빛",
+    "viewCount": 312,
+    "contentHtml": "<h2>환영합니다</h2><p>자유롭게 의견을 남기고 이미지도 공유해 주세요.</p>",
+    "category": "free",
+    "createdAt": "2024-08-01T10:30:00.000",
+    "updatedAt": "2024-08-01T10:30:00.000",
+    "likeCount": 12,
+    "dislikeCount": 0,
+    "imageUrls": [
+      "https://picsum.photos/id/1015/600/400",
+      "https://picsum.photos/id/1016/600/400"
+    ]
+  },
+  {
+    "id": "post-2",
+    "title": "최신 Web3 뉴스 공유",
+    "authorNickname": "실험요정",
+    "viewCount": 412,
+    "contentHtml": "<p>이번 주에는 <strong>탈중앙화 지갑</strong> 관련 업데이트가 있었습니다.</p>",
+    "category": "news",
+    "createdAt": "2024-08-12T09:15:00.000",
+    "updatedAt": "2024-08-13T11:00:00.000",
+    "likeCount": 28,
+    "dislikeCount": 4
+  },
+  {
+    "id": "post-3",
+    "title": "실험실 장비 공유 스냅샷",
+    "authorNickname": "초코송이",
+    "viewCount": 128,
+    "contentHtml": "<p>실험 장비 배치를 사진으로 공유합니다. 의견 주세요!</p>",
+    "category": "experiment",
+    "createdAt": "2024-08-20T14:00:00.000",
+    "updatedAt": "2024-08-20T14:00:00.000",
+    "imageUrls": [
+      "https://picsum.photos/id/1018/600/400",
+      "https://picsum.photos/id/1020/600/400"
+    ]
+  }
+]
