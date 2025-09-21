@@ -1,0 +1,34 @@
+[
+  {
+    "id": "alice@example.com",
+    "name": "Alice Kim",
+    "email": "alice@example.com",
+    "nickname": "별빛",
+    "loginMethod": "local",
+    "point": 1200,
+    "createdAt": "2024-01-03T00:00:00.000",
+    "updatedAt": "2024-09-12T00:00:00.000",
+    "memo1": "0x1234...abcd"
+  },
+  {
+    "id": "bob@kakao.com",
+    "name": "Bob Park",
+    "email": "bob@kakao.com",
+    "nickname": "초코송이",
+    "loginMethod": "kakao",
+    "point": 980,
+    "createdAt": "2024-02-14T00:00:00.000",
+    "updatedAt": "2024-09-14T00:00:00.000"
+  },
+  {
+    "id": "carol@google.com",
+    "name": "Carol Choi",
+    "email": "carol@google.com",
+    "nickname": "실험요정",
+    "loginMethod": "google",
+    "point": 1520,
+    "createdAt": "2024-03-02T00:00:00.000",
+    "updatedAt": "2024-09-10T00:00:00.000",
+    "memo2": "0x9876...1122"
+  }
+]
